@@ -1,0 +1,13 @@
+만든 거
+margin: auto
+margin, padding
+color
+text-align
+col-12 : mobile
+Media query 범위 ~이상만 쓰기 (~이상 ~이하 ㄴㄴ)
+display
+flex box
+
+만들어야 되는 거
+
+만들 필요 없는 거

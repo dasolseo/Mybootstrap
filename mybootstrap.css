@@ -1,0 +1,16 @@
+/* Common setting */
+html {
+	font-size: 15px;
+	line-height: 1.6;
+	font-family: 'Spoqa Han Sans', sans-serif;		
+}
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	letter-spacing: -0.02em;
+}
+
+[lang="en"] {
+	font-family: 'Montserrat-regular', sans-serif;
+} 
